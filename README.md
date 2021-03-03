@@ -14,7 +14,7 @@ This can be done by adding this line initially in the code:-
 System.setProperty("webdriver.chrome.driver", "local/location/of/chromedriver");
 You can use FirefoxDriver or IEDriver alternatively if you want to run automation test on browser other than Chrome. Here, tests are written for Chrome.
 
-To setup TestNG :-
+ setup TestNG :-
 1. Download latest Selenium library for Java from https://www.seleniumhq.org/download/ and extract the zip.
 2. Add all JAR files inside extracted folder and inside libs folder to the project.
 3. Download appropriate ChromeDriver depending on your OS from http://chromedriver.chromium.org/downloads
